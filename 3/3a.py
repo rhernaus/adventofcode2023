@@ -1,3 +1,5 @@
+# TODO: Code should check multi digit numbers instead of just single digits
+
 symbols = [
     "!",
     "@",
